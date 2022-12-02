@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on YouTube
 - 😄 Fun fact | I spend up to 8h listening songs everyday up
 - 📫 How to reach me
-[!Twitter](./img(.svg)](https://twitter.com/thel4stnephilim) • [YouTube](https://m.youtube.com/channel/UCq5voUP4DDb91z5E02foGKQ)
-
+[YouTube](https://m.youtube.com/channel/UCq5voUP4DDb91z5E02foGKQ)
+![This is an image](https://www.iconfinder.com/icons/2878030/media_network_social_web_twitter_icon.png)
 (https://twitter.com/thel4stnephilim#gh-dark-mode-only)
 [![img_contact](./img/globe-light.svg)](https://twitter.com/thel4stnephilim#gh-light-mode-only)
 
