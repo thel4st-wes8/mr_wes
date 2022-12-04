@@ -9,7 +9,7 @@
 </p>
 </br>
 
-- 👋 Hi there, I’m @thel4stnephilim
+- 👋 Hi everyone, I’m @thel4stnephilim
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning amazing things ...
 - 🔬 I'm currently working on 2D game dev
