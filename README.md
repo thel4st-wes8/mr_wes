@@ -5,11 +5,10 @@
 - 💬 Ask me about Unity or any tech related stuff
 - 💞️ I’m looking to collaborate on YouTube
 - 😄 Fun fact | I spend up to 8h listening songs everyday up
-- 📫 How to reach me
-[YouTube](https://m.youtube.com/channel/UCq5voUP4DDb91z5E02foGKQ)
-![This is an image](https://www.iconfinder.com/icons/2878030/media_network_social_web_twitter_icon.png)
-(https://twitter.com/thel4stnephilim#gh-dark-mode-only)
-[![img_contact](./img/globe-light.svg)](https://twitter.com/thel4stnephilim#gh-light-mode-only)
+- 📫 How to reach me :
+
+  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) 
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
