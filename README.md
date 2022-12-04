@@ -29,3 +29,7 @@ I really enjoy learning languages and frameworks like JS and React.
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+
+
+[<img alt="AWS" width="25px src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" />]()
