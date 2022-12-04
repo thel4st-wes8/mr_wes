@@ -1,3 +1,8 @@
+
+
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true)
+
 - 👋 Hi, I’m @thel4stnephilim
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning Flutter
