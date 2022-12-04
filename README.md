@@ -1,15 +1,17 @@
+## **WELCOME TO MY GITHUB**
+
+I really enjoy learning languages and frameworks like JS and React.
 
 
+![GHstats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true)
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true#gh-dark-mode-only)
-
-- 👋 Hi, I’m @thel4stnephilim
+- 👋 Hi there, I’m @thel4stnephilim
 - 👀 I’m interested in Basketball & Video editing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning amazing things ...
 - 🔬 I'm currently working on 2D game dev
 - 💬 Ask me about Unity or any tech related stuff
 - 💞️ I’m looking to collaborate on YouTube
-- 😄 Fun fact | I spend up to 8h listening songs everyday up
+- 😄 Fun fact | I spend up to 8h listening songs everyday
 - 📫 How to reach me :
 
   [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) 
