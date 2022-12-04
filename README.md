@@ -18,7 +18,7 @@
 - 😄 Fun fact | I spend up to 8h listening songs everyday
 - 📫 How to reach me :
 
-  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8)  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09)  [<img alt="YouTube" width="25px" src="https://i.imgur.com/qiXu7b2.png" />](https://youtube.com/@thel4stnephilimtm500)
+  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) [<img alt="YouTube" width="25px" src="https://i.imgur.com/qiXu7b2.png" />](https://youtube.com/@thel4stnephilimtm500)
 
 <h3 align="center">
 <strong>My specific skills include</strong>
@@ -27,7 +27,7 @@
 <img alt="After effect" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" /> <img alt="Csharp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="Express" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img alt="MySql" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" ></br>
 <img alt="
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thel4stnephilim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
