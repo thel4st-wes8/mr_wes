@@ -18,7 +18,7 @@
 - 😄 Fun fact | I spend up to 8h listening songs everyday
 - 📫 How to reach me :
 
-  [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) [<img alt="YouTube" width="25px" src="https://i.imgur.com/qiXu7b2.png" />](https://youtube.com/@thel4stnephilimtm500)
+  [<img alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) [<img alt="YouTube" width="25px" src="https://i.imgur.com/qiXu7b2.png" />](https://youtube.com/@thel4stnephilimtm500)
 
 <h3 align="center">
 <strong>My specific skills include</strong>
