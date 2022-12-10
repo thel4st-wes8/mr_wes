@@ -33,9 +33,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thel4stnephilim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
