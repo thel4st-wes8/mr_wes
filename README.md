@@ -9,6 +9,8 @@
 </p>
 </br>
 
+<img alt="AfterEffect" width="32px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 - 👋 Hi everyone, I’m @thel4stnephilim
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning amazing things ...
