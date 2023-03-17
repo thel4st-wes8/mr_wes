@@ -14,8 +14,8 @@
 - 👋 Hi everyone, I’m @thel4stnephilim
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning amazing things ...
-- 🔬 I'm currently working on 2D game dev
-- 💬 Ask me about Unity or any tech related stuff
+- 🔬 I'm currently working on 3D game
+- 💬 Ask me about Unity, Unreal Engine or any tech related stuff
 - 💞️ I’m looking to collaborate on YouTube
 - 😄 Fun fact | I spend up to 8h listening songs everyday
 - 📫 How to reach me :
