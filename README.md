@@ -2,14 +2,14 @@
    WELCOME TO MY GITHUB !
  </h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff7f00&center=true&vCenter=true&lines=Hi+there+👋,+I+am+Mickael+Shungu;+Welcome+to+My+Profile+!;Over+5+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff7f00&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mickael+Shungu;+Welcome+to+My+Profile+!;Over+5+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
 <strong>I really enjoy learning new languages and frameworks</strong>
 </p>
 </br>
 
-<img alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="display: block; margin-left: 50rem;" />
 
 - 👋 Hi everyone, I’m @thel4st
 - 👀 I’m interested in Basketball & Video editing
