@@ -23,6 +23,8 @@
 - 📫 How to reach me :
 
   [<img alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/michael.jameswes.8) [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198) [<img alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/TheL4stNephilim?t=tNfFztBSyTxs1jhMb4fN_A&s=09) [<img alt="YouTube" width="25px" src="https://i.imgur.com/qiXu7b2.png" />](https://youtube.com/@thel4stnephilimtm500)
+<br>
+<br>
 
 <h3 align="center">
 <strong>My specific skills include</strong>
@@ -71,7 +73,9 @@
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thel4stnephilim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <div align="center">
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <picture>
 </div>
