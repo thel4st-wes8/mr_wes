@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff7f00&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mickael+Shungu;+Welcome+to+My+Profile+!;Over+5+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-<strong>I really enjoy learning languages and frameworks like JS and Flutter</strong>
+<strong>I really enjoy learning new languages and frameworks</strong>
 </p>
 </br>
 
