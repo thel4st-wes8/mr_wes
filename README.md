@@ -27,11 +27,11 @@
 [![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/TheL4stNephilim#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/TheL4stNephilim#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198/#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
