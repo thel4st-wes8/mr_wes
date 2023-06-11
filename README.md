@@ -116,7 +116,7 @@
 
 ### ✨ Github Profile Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Other Stats :
 
@@ -131,5 +131,3 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
  <picture>
 </div>
-
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thel4stnephilim)](https://github.com/thel4stnephilim/github-readme-stats)
