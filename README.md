@@ -112,8 +112,8 @@
 <br>
 <br>
 
-### Github stats
 <img alt="Express_dark" width="60px" src="./img/icons8-github.svg" />
+### Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
