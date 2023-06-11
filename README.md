@@ -64,7 +64,7 @@
   &nbsp;&nbsp;
   <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   &nbsp;&nbsp;
-  <img alt="Microsoft SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="Microsoft SQL Server" width="30px" src="./img/icons8-microsoft-sql-server.svg" />
   &nbsp;&nbsp;
   <img alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;&nbsp;
