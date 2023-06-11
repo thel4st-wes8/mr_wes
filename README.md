@@ -22,7 +22,7 @@
 - 😄 Fun fact | I spend up to 8h listening songs everyday
 - 📫 How to reach me :
 
-[<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)
+  [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)
 <br>
 <br>
 
