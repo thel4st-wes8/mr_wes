@@ -24,8 +24,8 @@
 
 ### Connect with me:
 
-[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+[![img_contact](./img/youtube-light.svg)](https://youtube.com/@thel4stnephilimtm500#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://youtube.com/@thel4stnephilimtm500#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/TheL4stNephilim#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/TheL4stNephilim#gh-dark-mode-only)
@@ -33,8 +33,8 @@
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mickael-shungu-a87275198#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
+[![img_contact](./img/instagram-light.svg)](https://instagram.com/mswesl#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mswesl#gh-dark-mode-only)
 
   [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)
 <br>
