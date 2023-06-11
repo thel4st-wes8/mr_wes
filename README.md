@@ -12,6 +12,8 @@
 
  <img alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="display: block; margin-left: auto; margin-right: auto;" />
 </div>
+<br>
+<br>
 
 - 👋 Hi everyone, I’m Mickael Shungu
 - 👀 I’m interested in Basketball & Video editing
