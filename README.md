@@ -15,11 +15,11 @@
 
 - 👋 Hi everyone, I’m Mickael Shungu
 - 👀 I’m interested in Basketball & Video editing
-- 🌱 I’m currently learning amazing things ...
+- 🌱 I’m currently learning AI
 - 🔬 I'm currently working on 3D game
 - 💬 Ask me about Unity, Unreal Engine or any tech related stuff
 - 💞️ I’m looking to collaborate on Kick or YouTube
-- 😄 Fun fact | I spend up to 8h listening songs everyday
+- 😄 Fun fact | PS Gaming / Street Fighter
 - 📫 How to reach me :
 
   [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)
