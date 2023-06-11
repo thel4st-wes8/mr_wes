@@ -5,7 +5,7 @@
 
  <p>
   <strong>
-   I really enjoy learning new languages and frameworks
+   A passionate Full stack developer experienced in React and NodeJS, dedicated to creating world-class web apps and softwares that meet the highest standards of excellence.
   </strong>
  </p>
 <br>
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-### Connect with me:
+### Connect with me :
 
 [![img_contact](./img/youtube-light.svg)](https://youtube.com/@thel4stnephilimtm500#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://youtube.com/@thel4stnephilimtm500#gh-dark-mode-only)
@@ -112,8 +112,9 @@
 <br>
 <br>
 
-<img alt="Express_dark" width="60px" src="./img/icons8-github.svg" />
-### Github stats
+<img alt="Express_dark" width="80px" src="./img/icons8-github.svg" />
+
+### Github stats ✨ :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
