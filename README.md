@@ -21,6 +21,8 @@
 - 💬 Ask me about Unity, Unreal Engine or any tech related stuff
 - 💞️ I’m looking to collaborate on Kick or YouTube
 - 😄 Fun fact | PS Gaming / Street Fighter
+
+[![Wakatime](https://wakatime.com/badge/user/f2d4a4c7-328e-4703-8fa3-46cee6dad698.svg)](https://wakatime.com/@f2d4a4c7-328e-4703-8fa3-46cee6dad698)
 <br>
 <br>
 
@@ -119,8 +121,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Other Stats :
-
-[![Wakatime](https://wakatime.com/badge/user/f2d4a4c7-328e-4703-8fa3-46cee6dad698.svg)](https://wakatime.com/@f2d4a4c7-328e-4703-8fa3-46cee6dad698)
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thel4stnephilim&langs_count=8&hide=html&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
