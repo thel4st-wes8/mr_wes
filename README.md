@@ -35,8 +35,6 @@
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/mswesl#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://instagram.com/mswesl#gh-dark-mode-only)
-
-  [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/mwlite/in/mickael-shungu-a87275198)
 <br>
 <br>
 
