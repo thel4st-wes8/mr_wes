@@ -42,7 +42,7 @@
 <br>
 
 <h3 align="center">
-<strong>My specific skills include</strong>
+<strong>My specific used languages & tools include</strong>
 </h3>
 
 <div align="center">
