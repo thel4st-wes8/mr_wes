@@ -124,7 +124,7 @@
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thel4stnephilim&langs_count=8&layout=compact&hide=html&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thel4stnephilim)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thel4stnephilim&layout=compact&hide=html&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
  <picture>
