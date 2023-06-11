@@ -57,11 +57,8 @@
   &nbsp;&nbsp;
   <img alt= "ElectronJS" width= "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   &nbsp;&nbsp;
-  [![img_contact](./img/icons8-express-js.svg)](https://youtube.com/#gh-light-mode-only)
-  [![img_contact](./img/icons8-express-js.svg)](https://youtube.com/#gh-dark-mode-only)
-  &nbsp;&nbsp;
-  <img alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" />
-  <img alt="Express" width="30px" src="./img/icons8-express-js.svg/#gh-light-mode-only" />
+  <img alt="Express_dark" width="30px" src="./img/icons8-express-js.svg/#gh-dark-mode-only" />
+  <img alt="Express_light" width="30px" src="./img/icons8-express-js (1).svg/#gh-light-mode-only" />
   &nbsp;&nbsp;
   <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
