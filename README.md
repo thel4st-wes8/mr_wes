@@ -13,7 +13,6 @@
  <img alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="display: block; margin-left: auto; margin-right: auto;" />
 </div>
 <br>
-<br>
 
 - 👋 Hi everyone, I’m Mickael Shungu
 - 👀 I’m interested in Basketball & Video editing
@@ -22,7 +21,8 @@
 - 💬 Ask me about Unity, Unreal Engine or any tech related stuff
 - 💞️ I’m looking to collaborate on Kick or YouTube
 - 😄 Fun fact | PS Gaming / Street Fighter
-
+<br>
+<br>
 
 ### Connect with me:
 
