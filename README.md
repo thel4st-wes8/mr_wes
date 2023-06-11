@@ -95,9 +95,11 @@
   &nbsp;&nbsp;
   <img alt="PremierePro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img alt="Unity_dark" width="30px" src="./img/icons8-unity.svg/#gh-dark-mode-only" />
+  <img alt="Unity_light" width="30px" src="./img/icons8-unity (1).svg/#gh-light-mode-only" />
   &nbsp;&nbsp;
-  <img alt="Unreal Engine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+  <img alt="Unreal Engine_dark" width="30px" src="./img/icons8-unreal-engine.svg/#gh-dark-mode-only" />
+  <img alt="Unreal Engine_light" width="30px" src="./img/icons8-unreal-engine (1).svg/#gh-light-mode-only" />
   &nbsp;&nbsp;
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp;&nbsp;
