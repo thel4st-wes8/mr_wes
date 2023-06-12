@@ -18,8 +18,12 @@
 - 🌱 I’m currently learning AI
 - 🔬 I'm currently working on 3D game
 - 💬 Ask me about Unity, Unreal Engine or any tech related stuff
-- 💞️ I’m looking to collaborate on Kick or YouTube
-- 😄 Fun fact | PS Gaming / Street Fighter
+- 💞️ I’m looking to collaborate on YouTube
+- 😄 Fun fact | PS Gaming / Street Fighter <i>(since 3rd Strike)</i>
+
+![Count](https://count.getloli.com/get/@thel4stnephilim)
+ 
+<i>Visitor count for this page since June 12, 2023</i>
 
 [![Wakatime](https://wakatime.com/badge/user/f2d4a4c7-328e-4703-8fa3-46cee6dad698.svg)](https://wakatime.com/@f2d4a4c7-328e-4703-8fa3-46cee6dad698)
 <br>
@@ -119,11 +123,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thel4stnephilim&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 Other Stats :
-
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thel4stnephilim&langs_count=8&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thel4stnephilim&layout=compact&hide=html&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thel4stnephilim&layout=compact&title_color=3B1F94f&icon_color=ff7f00&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thel4stnephilim"></img>
 
 <div align="center">
  <picture>
