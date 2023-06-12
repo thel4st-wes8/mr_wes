@@ -15,7 +15,7 @@
 <br>
 
 - 👀 I’m interested in Basketball & Video editing
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning amazing things
 - 🔬 I'm currently working on 3D game
 - 💬 Ask me about React, React Native, NodeJs, Unity, Unreal Engine or any related stuff
 - 💞️ I’m looking to collaborate on YouTube
