@@ -14,7 +14,6 @@
 </div>
 <br>
 
-- 👋 Hi everyone, I’m Mickael Shungu
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning AI
 - 🔬 I'm currently working on 3D game
