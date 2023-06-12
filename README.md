@@ -17,15 +17,15 @@
 - 👀 I’m interested in Basketball & Video editing
 - 🌱 I’m currently learning AI
 - 🔬 I'm currently working on 3D game
-- 💬 Ask me about Unity, Unreal Engine or any tech related stuff
+- 💬 Ask me about React, React Native, NodeJs, Unity, Unreal Engine or any related stuff
 - 💞️ I’m looking to collaborate on YouTube
 - 😄 Fun fact | PS Gaming / Street Fighter <i>(since 3rd Strike)</i>
+
+[![Wakatime](https://wakatime.com/badge/user/f2d4a4c7-328e-4703-8fa3-46cee6dad698.svg)](https://wakatime.com/@f2d4a4c7-328e-4703-8fa3-46cee6dad698)
 
 ![Count](https://count.getloli.com/get/@thel4stnephilim)
  
 <i>Visitor count for this page since June 12, 2023</i>
-
-[![Wakatime](https://wakatime.com/badge/user/f2d4a4c7-328e-4703-8fa3-46cee6dad698.svg)](https://wakatime.com/@f2d4a4c7-328e-4703-8fa3-46cee6dad698)
 <br>
 <br>
 
