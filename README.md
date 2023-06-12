@@ -5,7 +5,7 @@
 
  <p>
   <strong>
-   A passionate FullStack developer experienced in React and NodeJS, dedicated to creating world-class softwares that meet the highest standards of excellence.
+   A passionate Full Stack developer experienced in React and NodeJS, dedicated to creating world-class softwares that meet the highest standards of excellence.
   </strong>
  </p>
 <br>
